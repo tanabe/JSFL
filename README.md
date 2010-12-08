@@ -1,2 +1,2 @@
-#Flash の JSFL コマンド集
+#Flash 縺ｮ JSFL 繧ｳ繝槭Φ繝蛾寔
 ---
